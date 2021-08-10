@@ -1,3 +1,3 @@
-new text
-test2
-test3 
+new test that
+stage and commit in single command
+
