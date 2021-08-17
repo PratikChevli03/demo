@@ -2,6 +2,6 @@ forDemo new text
 
 new line 1
 
-change try 7 from github
+change try 7 from local
 
 try 2 on github
